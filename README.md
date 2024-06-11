@@ -6,6 +6,11 @@
 
 ###
 
+
+
+<h3 align="left"> Some of my recent projects: </h3><br> Google Data Analytics Professional Certificate: Capstone Project - Insert link <br><br> Some smaller data analytics projects I've complete - Link </p>
+
+###
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ketchupjl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketchupjl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
